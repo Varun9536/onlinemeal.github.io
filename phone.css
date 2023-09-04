@@ -1,0 +1,32 @@
+#services
+{
+    flex-direction: column;
+}
+#clients
+{
+    flex-direction: column;
+}
+#client-section
+{
+    height: 1165px;
+}
+#client-section::before{
+    height: 1113px;
+}
+#home
+{
+    height: 1005px;
+    padding: 3px 145px;
+}
+#navbar
+{
+    flex-direction: column;
+}
+#navbar ul li a 
+{
+    padding: 2px 3px;
+}
+#home::before
+{
+    height: 1180px;
+}
